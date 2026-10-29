@@ -70,6 +70,10 @@ Your goal is to determine which combination of prompting technique + platform pr
 | Role-based | 24 | 24 | 24 | 22 | 94 |
 | **Platform Total** | 89 | 88 | **93** | 85 | |
 
+## 📄 Project Report
+
+[Click here to view EX2 Prompt by Irfan (PDF)](./EX2%20Prompt%20by%20Irfan.pdf)
+
 ## Result
 
 - **Best AI platform: Claude** (93/100). It scored 5/5 on accuracy and coherence in every technique and was the most consistent across prompts.
